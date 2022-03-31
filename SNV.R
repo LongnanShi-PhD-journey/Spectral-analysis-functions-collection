@@ -24,3 +24,4 @@ SNV <- function(df){
   colnames(result) <- colnames(df)
   return(result) 
 }
+
